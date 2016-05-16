@@ -1,0 +1,6 @@
+[submodule "libs/facebook-android-sdk"]
+	path = libs/facebook-android-sdk
+	url = https://github.com/facebook/facebook-android-sdk.git
+[submodule "android/lib/facebook-android-sdk"]
+	path = android/lib/facebook-android-sdk
+	url = https://github.com/facebook/facebook-android-sdk.git
