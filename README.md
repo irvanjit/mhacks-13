@@ -1,5 +1,7 @@
-Mango - NFC Contact Sharing on Android
-======================================
+Mango - MHacks-13 hack
+----------------------
+
+###NFC Contact Sharing on Android.
 
 Mango is a project that demonstrates server-syncronized NFC contact info sharing on Android.
 
